@@ -1,0 +1,185 @@
+{
+  "main": {
+    "id": "dc24d51b04434eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "c732f7d36aadc7a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "855ed94fa85e327f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ÍNDICE.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71dfe8f50095a50d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/types/type-system.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1729466ba30d3e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/javascript/null-undefined.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9f9d72243f22bac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f718e3ddfa9f304a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca6fe0537e38f8ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "668bbd6dc4ad55ea",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ad375edee0a7f541",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e0e532797b100d8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "358e0e765ab7eb6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f49f8906415ba27",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/javascript/null-undefined.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "375f6e7892346629",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/javascript/null-undefined.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "11bb3755eaacc00d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9085411f4beb0009",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/javascript/null-undefined.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "1729466ba30d3e24",
+  "lastOpenFiles": [
+    "docs/types/type-system.md",
+    "ÍNDICE.md",
+    "docs/javascript/null-undefined.md",
+    "docs/javascript/references.md",
+    "docs/javascript/equality.md",
+    "docs/javascript/recap.md",
+    "docs/why-typescript.md",
+    "README.md"
+  ]
+}
