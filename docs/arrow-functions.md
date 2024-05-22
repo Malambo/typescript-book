@@ -7,7 +7,7 @@
 
 ### Función flecha
 
-Amorosamente llamadas *fat arrow* (flecha gorda), porque `->` es una flecha flaca y `=>` es una flecha gorda). También se la llama una *función lambda* (debido a otros lenguages). Otra característica comúnmente utilizada es la función de flecha gorda `()=>algo`. La motivación para una *flecha gorda* es:
+Amorosamente llamadas *fat arrow* (flecha gorda), porque `->` es una flecha flaca y `=>` es una flecha gorda). También se la llama una *función lambda* (debido a otros lenguajes). Otra característica comúnmente utilizada es la función de flecha gorda `()=>algo`. La motivación para una *flecha gorda* es:
 1. No necesitas tipear `function` todo el tiempo
 2. Captura el significado de `this` léxicamente
 3. Caputra el significado de `arguments` léxicamente
